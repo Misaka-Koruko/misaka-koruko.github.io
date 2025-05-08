@@ -10,14 +10,10 @@
 <body>
     <div class="header">
         <nav>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="/Pages/project.html">Project</a></li>
-            <li><a href="/Pages/project">About Me</a></li>
+            <li><a href="Home">Home</a></li>
+            <li><a href="project">Project</a></li>
+            <li><a href="Aboutme.html">About Me</a></li>
         </nav>
-        <header>Home</header>
+        <header>About Me</header>
     </div>
-    
-    <p>Currently under construction, please check back later! Thank you.</p>
-    <p>Last updated: 23:58 Febuary 18th, 2023</p>
 </body>
-</html>
